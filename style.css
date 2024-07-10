@@ -128,14 +128,14 @@ aside a:hover{
 
 #main-div .news{
     width: 100%;
-    background: url(/images/Banner_News.png) no-repeat;
+    background: url(Banner_News.png) no-repeat;
     min-height: 416px;
     margin-left: 15px;
 }
 
 #main-div .games-header{
     width: 100%;
-    background: url(/images/GamesHeader.jpg) no-repeat;
+    background: url(GamesHeader.jpg) no-repeat;
     min-height: 416px;
     margin-left: 15px;
     
@@ -207,7 +207,7 @@ aside a:hover{
 
 #main-div .box:nth-child(2){
     width: 98%;
-    background: url(/images/valorant.jfif) no-repeat center;
+    background: url(valorant.jfif) no-repeat center;
     padding-top: 270px;
     text-align: center;
     color: #ffffff;
@@ -215,7 +215,7 @@ aside a:hover{
 
 #main-div .box:nth-child(3){
     width: 32%;
-    background: url(/images/Fallout76.jpg) no-repeat center top;
+    background: url(Fallout76.jpg) no-repeat center top;
     padding-top: 270px;
     text-align: center;
     color: #ffffff;
@@ -223,7 +223,7 @@ aside a:hover{
 
 #main-div .box:nth-child(4){
     width: 32%;
-    background: url(/images/Apex.jpg)no-repeat center; 
+    background: url(Apex.jpg)no-repeat center; 
     padding-top: 270px;
     text-align: center;
     color: #ffffff;
@@ -231,7 +231,7 @@ aside a:hover{
 
 #main-div .box:nth-child(5){
     width: 32%;
-    background: url(/images/SOS.jpg) center top;
+    background: url(SOS.jpg) center top;
     padding-top: 270px;
     text-align: center;
     color: #ffffff;
@@ -241,7 +241,7 @@ aside a:hover{
 
 #main-div .box:nth-child(6){
     width: 98%;
-    background: url(/images/Astroneer.jpg)center;
+    background: url(Astroneer.jpg)center;
     padding-top: 270px;
     text-align: center;
     color: #ffffff;
@@ -275,7 +275,7 @@ aside a:hover{
 
 #main-div .games-page:nth-child(2){
     width: 32%;
-    background: url(/images/valorant.jfif) no-repeat center;
+    background: url(valorant.jfif) no-repeat center;
     padding-top: 270px;
     text-align: center;
     color: #ffffff;
@@ -283,7 +283,7 @@ aside a:hover{
 
 #main-div .games-page:nth-child(3){
     width: 32%;
-    background: url(/images/Fallout76.jpg) no-repeat center top;
+    background: url(Fallout76.jpg) no-repeat center top;
     padding-top: 270px;
     text-align: center;
     color: #ffffff;
@@ -291,7 +291,7 @@ aside a:hover{
 
 #main-div .games-page:nth-child(4){
     width: 32%;
-    background: url(/images/Apex.jpg)no-repeat center; 
+    background: url(Apex.jpg)no-repeat center; 
     padding-top: 270px;
     text-align: center;
     color: #ffffff;
@@ -299,7 +299,7 @@ aside a:hover{
 
 #main-div .games-page:nth-child(5){
     width: 32%;
-    background: url(/images/SOS.jpg) center top;
+    background: url(SOS.jpg) center top;
     padding-top: 270px;
     text-align: center;
     color: #ffffff;
@@ -309,7 +309,7 @@ aside a:hover{
 
 #main-div .games-page:nth-child(6){
     width: 32%;
-    background: url(/images/Astroneer.jpg)center;
+    background: url(Astroneer.jpg)center;
     padding-top: 270px;
     text-align: center;
     color: #ffffff;
@@ -317,7 +317,7 @@ aside a:hover{
 
 #main-div .games-page:nth-child(7){
     width: 32%;
-    background: url(/images/fnv.jfif)center;
+    background: url(fnv.jfif)center;
     padding-top: 270px;
     text-align: center;
     color: #ffffff;
@@ -437,7 +437,7 @@ font-size: 20px;
 
 
 .bg-section{
-    background: url(/images/background.png) no-repeat center;
+    background: url(background.png) no-repeat center;
     background-color: #000;
     background-size: cover;
     width: 100%;
